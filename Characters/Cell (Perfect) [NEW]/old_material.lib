@@ -1,0 +1,238 @@
+# Aspose.3D Wavefront OBJ Exporter
+# Copyright 2004-2025 Aspose Pty Ltd.
+# File created: 11/22/2025 12:17:13
+
+newmtl nail
+	Ka 0 0 0
+	Kd 1 1 1
+	Ke 0 0 0
+	illum 2
+	Ks 0 0 0
+	Ns 0
+	d 1
+	Tr 0
+newmtl skin_hand
+	Ka 0 0 0
+	Kd 1 1 1
+	Ke 0 0 0
+	illum 2
+	Ks 0 0 0
+	Ns 0
+	d 1
+	Tr 0
+newmtl boots
+	Ka 0 0 0
+	Kd 1 1 1
+	Ke 0 0 0
+	illum 2
+	Ks 0 0 0
+	Ns 0
+	d 1
+	Tr 0
+newmtl skin_bustA
+	Ka 0 0 0
+	Kd 1 1 1
+	Ke 0 0 0
+	illum 2
+	Ks 0 0 0
+	Ns 0
+	d 1
+	Tr 0
+newmtl skin_bustB
+	Ka 0 0 0
+	Kd 1 1 1
+	Ke 0 0 0
+	illum 2
+	Ks 0 0 0
+	Ns 0
+	d 1
+	Tr 0
+newmtl skin_bustC
+	Ka 0 0 0
+	Kd 1 1 1
+	Ke 0 0 0
+	illum 2
+	Ks 0 0 0
+	Ns 0
+	d 1
+	Tr 0
+newmtl skin_bustD
+	Ka 0 0 0
+	Kd 1 1 1
+	Ke 0 0 0
+	illum 2
+	Ks 0 0 0
+	Ns 0
+	d 1
+	Tr 0
+newmtl skin_tail
+	Ka 0 0 0
+	Kd 1 1 1
+	Ke 0 0 0
+	illum 2
+	Ks 0 0 0
+	Ns 0
+	d 1
+	Tr 0
+newmtl tooth
+	Ka 0 0 0
+	Kd 1 1 1
+	Ke 0 0 0
+	illum 2
+	Ks 0 0 0
+	Ns 0
+	d 1
+	Tr 0
+newmtl tongue
+	Ka 0 0 0
+	Kd 1 1 1
+	Ke 0 0 0
+	illum 2
+	Ks 0 0 0
+	Ns 0
+	d 1
+	Tr 0
+newmtl head_A
+	Ka 0 0 0
+	Kd 1 1 1
+	Ke 0 0 0
+	illum 2
+	Ks 0 0 0
+	Ns 0
+	d 1
+	Tr 0
+newmtl head_C
+	Ka 0 0 0
+	Kd 1 1 1
+	Ke 0 0 0
+	illum 2
+	Ks 0 0 0
+	Ns 0
+	d 1
+	Tr 0
+newmtl mouth
+	Ka 0 0 0
+	Kd 1 1 1
+	Ke 0 0 0
+	illum 2
+	Ks 0 0 0
+	Ns 0
+	d 1
+	Tr 0
+newmtl skin_faceA
+	Ka 0 0 0
+	Kd 1 1 1
+	Ke 0 0 0
+	illum 2
+	Ks 0 0 0
+	Ns 0
+	d 1
+	Tr 0
+newmtl skin_faceB
+	Ka 0 0 0
+	Kd 1 1 1
+	Ke 0 0 0
+	illum 2
+	Ks 0 0 0
+	Ns 0
+	d 1
+	Tr 0
+newmtl skin_faceC
+	Ka 0 0 0
+	Kd 1 1 1
+	Ke 0 0 0
+	illum 2
+	Ks 0 0 0
+	Ns 0
+	d 1
+	Tr 0
+newmtl eye_L
+	Ka 0 0 0
+	Kd 1 1 1
+	Ke 0 0 0
+	illum 2
+	Ks 0 0 0
+	Ns 0
+	d 1
+	Tr 0
+newmtl eye_R
+	Ka 0 0 0
+	Kd 1 1 1
+	Ke 0 0 0
+	illum 2
+	Ks 0 0 0
+	Ns 0
+	d 1
+	Tr 0
+newmtl wingA
+	Ka 0 0 0
+	Kd 1 1 1
+	Ke 0 0 0
+	illum 2
+	Ks 0 0 0
+	Ns 0
+	d 1
+	Tr 0
+newmtl wingB
+	Ka 0 0 0
+	Kd 1 1 1
+	Ke 0 0 0
+	illum 2
+	Ks 0 0 0
+	Ns 0
+	d 1
+	Tr 0
+newmtl wingC
+	Ka 0 0 0
+	Kd 1 1 1
+	Ke 0 0 0
+	illum 2
+	Ks 0 0 0
+	Ns 0
+	d 1
+	Tr 0
+newmtl wingD
+	Ka 0 0 0
+	Kd 1 1 1
+	Ke 0 0 0
+	illum 2
+	Ks 0 0 0
+	Ns 0
+	d 1
+	Tr 0
+newmtl head_B
+	Ka 0 0 0
+	Kd 1 1 1
+	Ke 0 0 0
+	illum 2
+	Ks 0 0 0
+	Ns 0
+	d 1
+	Tr 0
+newmtl skin_legA
+	Ka 0 0 0
+	Kd 1 1 1
+	Ke 0 0 0
+	illum 2
+	Ks 0 0 0
+	Ns 0
+	d 1
+	Tr 0
+newmtl skin_legB
+	Ka 0 0 0
+	Kd 1 1 1
+	Ke 0 0 0
+	illum 2
+	Ks 0 0 0
+	Ns 0
+	d 1
+	Tr 0
+newmtl skin_legC
+	Ka 0 0 0
+	Kd 1 1 1
+	Ke 0 0 0
+	illum 2
+	Ks 0 0 0
+	Ns 0
+	d 1
+	Tr 0
