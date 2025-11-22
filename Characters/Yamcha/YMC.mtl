@@ -1,6 +1,3 @@
-# Blender MTL File: 'None'
-# Material Count: 21
-
 newmtl boots_A
 Ns 0.000000
 Ka 1.000000 1.000000 1.000000
@@ -10,7 +7,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 1
-map_Kd C:\\Users\\Rohit\\Downloads\\AssetsDBZ2\\Process (Just need to colour them)\\Yamcha\\Textures\\YMC_000_Boots\\Boots_A.png
+map_Kd Boots_A.png
 
 newmtl boots_B
 Ns 0.000000
@@ -21,7 +18,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 1
-map_Kd C:\\Users\\Rohit\\Downloads\\AssetsDBZ2\\Process (Just need to colour them)\\Yamcha\\Textures\\YMC_000_Boots\\Boots_B + Socks.png
+map_Kd Boots_B.png
 
 newmtl dougi
 Ns 0.000000
@@ -32,7 +29,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 1
-map_Kd C:\\Users\\Rohit\\Downloads\\AssetsDBZ2\\Process (Just need to colour them)\\Yamcha\\Textures\\YMC_000_Bust\\Dougi.png
+map_Kd Dougi.png
 
 newmtl eye_L
 Ns 0.000000
@@ -43,7 +40,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 1
-map_Kd C:\\Users\\Rohit\\Downloads\\AssetsDBZ2\\Process (Just need to colour them)\\Yamcha\\Textures\\YMC_000_Face_eye\\Eyes.png
+map_Kd Eyes.png
 
 newmtl eye_R
 Ns 0.000000
@@ -54,7 +51,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 1
-map_Kd C:\\Users\\Rohit\\Downloads\\AssetsDBZ2\\Process (Just need to colour them)\\Yamcha\\Textures\\YMC_000_Face_eye\\Eyes.png
+map_Kd Eyes.png
 
 newmtl eyebrows
 Ns 0.000000
@@ -75,7 +72,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 1
-map_Kd C:\\Users\\Rohit\\Downloads\\AssetsDBZ2\\Process (Just need to colour them)\\Yamcha\\Textures\\YMC_000_Hair\\Hair.png
+map_Kd Hair.png
 
 newmtl hair.001
 Ns 0.000000
@@ -86,7 +83,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 1
-map_Kd C:\\Users\\Rohit\\Downloads\\AssetsDBZ2\\Process (Just need to colour them)\\Yamcha\\Textures\\YMC_000_Hair\\Hair.png
+map_Kd Hair.png
 
 newmtl injury_face
 Ns 0.000000
@@ -107,7 +104,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 1
-map_Kd C:\\Users\\Rohit\\Downloads\\AssetsDBZ2\\Process (Just need to colour them)\\Yamcha\\Textures\\YMC_000_Rist\\wristband.png
+map_Kd wristband.png
 
 newmtl mark
 Ns 0.000000
@@ -118,7 +115,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 1
-map_Kd C:\\Users\\Rohit\\Downloads\\AssetsDBZ2\\Process (Just need to colour them)\\Yamcha\\Textures\\YMC_000_Bust\\Mark.png
+map_Kd Mark.png
 
 newmtl mouth
 Ns 0.000000
@@ -139,7 +136,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 1
-map_Kd C:\\Users\\Rohit\\Downloads\\AssetsDBZ2\\Process (Just need to colour them)\\Yamcha\\Textures\\YMC_000_Pants\\pants_b.png
+map_Kd pants_b.png
 
 newmtl pants_A
 Ns 0.000000
@@ -150,7 +147,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 1
-map_Kd C:\\Users\\Rohit\\Downloads\\AssetsDBZ2\\Process (Just need to colour them)\\Yamcha\\Textures\\YMC_000_Pants\\pants.png
+map_Kd pants.png
 
 newmtl pants_B
 Ns 0.000000
@@ -161,7 +158,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 1
-map_Kd C:\\Users\\Rohit\\Downloads\\AssetsDBZ2\\Process (Just need to colour them)\\Yamcha\\Textures\\YMC_000_Pants\\pants.png
+map_Kd pants.png
 
 newmtl skin_bust
 Ns 0.000000
@@ -172,7 +169,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 1
-map_Kd C:\\Users\\Rohit\\Downloads\\AssetsDBZ2\\Process (Just need to colour them)\\Yamcha\\Textures\\YMC_000_Bust\\Skin_bust.png
+map_Kd Skin_bust.png
 
 newmtl skin_face
 Ns 0.000000
@@ -183,7 +180,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 1
-map_Kd C:\\Users\\Rohit\\Downloads\\AssetsDBZ2\\Process (Just need to colour them)\\Yamcha\\Textures\\YMC_000_Face_base\\face.png
+map_Kd face.png
 
 newmtl skin_hand
 Ns 0.000000
@@ -194,7 +191,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 1
-map_Kd C:\\Users\\Rohit\\Downloads\\AssetsDBZ2\\Process (Just need to colour them)\\Yamcha\\Textures\\YMC_000_Rist\\skin_hand.png
+map_Kd skin_hand.png
 
 newmtl socks_foot
 Ns 0.000000
@@ -205,7 +202,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 1
-map_Kd C:\\Users\\Rohit\\Downloads\\AssetsDBZ2\\Process (Just need to colour them)\\Yamcha\\Textures\\YMC_000_Boots\\Boots_B + Socks.png
+map_Kd Socks.png
 
 newmtl tongue
 Ns 0.000000

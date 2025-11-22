@@ -1,6 +1,3 @@
-# Blender MTL File: 'None'
-# Material Count: 17
-
 newmtl boot_A
 Ns 0.000000
 Ka 1.000000 1.000000 1.000000
@@ -10,7 +7,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 1
-map_Kd C:\\Users\\Rohit\\Downloads\\AssetsDBZ2\\Process (Just need to colour them)\\Vegito\\Textures\\VTO_000_Boots\\Boots_A.png
+map_Kd Boots_A.png
 
 newmtl boot_B
 Ns 0.000000
@@ -21,7 +18,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 1
-map_Kd C:\\Users\\Rohit\\Downloads\\AssetsDBZ2\\Process (Just need to colour them)\\Vegito\\Textures\\VTO_000_Boots\\Boots_B.png
+map_Kd Boots_B.png
 
 newmtl dougi
 Ns 0.000000
@@ -32,7 +29,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 1
-map_Kd C:\\Users\\Rohit\\Downloads\\AssetsDBZ2\\Process (Just need to colour them)\\Vegito\\Textures\\VTO_000_Bust\\dougi.png
+map_Kd dougi.png
 
 newmtl eye_L
 Ns 0.000000
@@ -43,7 +40,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 1
-map_Kd C:\\Users\\Rohit\\Downloads\\AssetsDBZ2\\Process (Just need to colour them)\\Vegito\\Textures\\VTO_000_Face_eye\\Eyes_SSJ.png
+map_Kd Eyes_SSJ.png
 
 newmtl eye_R
 Ns 0.000000
@@ -54,7 +51,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 1
-map_Kd C:\\Users\\Rohit\\Downloads\\AssetsDBZ2\\Process (Just need to colour them)\\Vegito\\Textures\\VTO_000_Face_eye\\Eyes_SSJ.png
+map_Kd Eyes_SSJ.png
 
 newmtl glove
 Ns 0.000000
@@ -65,7 +62,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 1
-map_Kd C:\\Users\\Rohit\\Downloads\\AssetsDBZ2\\Process (Just need to colour them)\\Vegito\\Textures\\VTO_000_Rist\\Gloves.png
+map_Kd Gloves.png
 
 newmtl hair
 Ns 0.000000
@@ -76,7 +73,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 1
-map_Kd C:\\Users\\Rohit\\Downloads\\AssetsDBZ2\\Process (Just need to colour them)\\Vegito\\Textures\\VTO_000_hair_scd\\Hair_SSJ.png
+map_Kd Hair_SSJ.png
 
 newmtl hair_eyebrows
 Ns 0.000000
@@ -107,7 +104,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 1
-map_Kd C:\\Users\\Rohit\\Downloads\\AssetsDBZ2\\Process (Just need to colour them)\\Vegito\\Textures\\VTO_000_Pants\\obi.png
+map_Kd obi.png
 
 newmtl pants
 Ns 0.000000
@@ -118,7 +115,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 1
-map_Kd C:\\Users\\Rohit\\Downloads\\AssetsDBZ2\\Process (Just need to colour them)\\Vegito\\Textures\\VTO_000_Pants\\pants.png
+map_Kd pants.png
 
 newmtl potara
 Ns 0.000000
@@ -129,7 +126,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 1
-map_Kd C:\\Users\\Rohit\\Downloads\\AssetsDBZ2\\Process (Just need to colour them)\\Vegito\\Textures\\VTO_000_Face_Ear\\Potara.png
+map_Kd Potara.png
 
 newmtl ring
 Ns 0.000000
@@ -140,7 +137,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 1
-map_Kd C:\\Users\\Rohit\\Downloads\\AssetsDBZ2\\Process (Just need to colour them)\\Vegito\\Textures\\VTO_000_Face_Ear\\ring.png
+map_Kd ring.png
 
 newmtl shirts
 Ns 0.000000
@@ -151,7 +148,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 1
-map_Kd C:\\Users\\Rohit\\Downloads\\AssetsDBZ2\\Process (Just need to colour them)\\Vegito\\Textures\\VTO_000_Bust\\shirts.png
+map_Kd shirts.png
 
 newmtl skin_bust
 Ns 0.000000
@@ -162,7 +159,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 1
-map_Kd C:\\Users\\Rohit\\Downloads\\AssetsDBZ2\\Process (Just need to colour them)\\Vegito\\Textures\\VTO_000_Bust\\skin_bust.png
+map_Kd skin_bust.png
 
 newmtl skin_face
 Ns 0.000000
@@ -173,7 +170,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 1
-map_Kd C:\\Users\\Rohit\\Downloads\\AssetsDBZ2\\Process (Just need to colour them)\\Vegito\\Textures\\VTO_000_Face_base\\skin_face.png
+map_Kd skin_face.png
 
 newmtl tooth
 Ns 0.000000
