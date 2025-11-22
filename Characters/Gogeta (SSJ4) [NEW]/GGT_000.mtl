@@ -1,0 +1,235 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v4.1.0)
+# UPDATED TO MATCH ACTUAL TEXTURE FILES
+
+newmtl armband_001
+Kd 1 1 1
+Ka 0 0 0
+Ks 0.4000000059604645 0.4000000059604645 0.4000000059604645
+Ke 0 0 0
+Ni 1
+Ns 10
+illum 2
+map_Kd armband.png
+
+newmtl boots_A_018
+Kd 1 1 1
+Ka 0 0 0
+Ks 0.4000000059604645 0.4000000059604645 0.4000000059604645
+Ke 0 0 0
+Ni 1
+Ns 10
+illum 2
+map_Kd Boots_A.png
+
+newmtl boots_B_018
+Kd 1 1 1
+Ka 0 0 0
+Ks 0.4000000059604645 0.4000000059604645 0.4000000059604645
+Ke 0 0 0
+Ni 1
+Ns 10
+illum 2
+map_Kd Boots_B.png
+
+newmtl boots_C_018
+Kd 1 1 1
+Ka 0 0 0
+Ks 0.4000000059604645 0.4000000059604645 0.4000000059604645
+Ke 0 0 0
+Ni 1
+Ns 10
+illum 2
+map_Kd Boots_C.png
+
+newmtl bust_A_018
+Kd 1 1 1
+Ka 0 0 0
+Ks 0.4000000059604645 0.4000000059604645 0.4000000059604645
+Ke 0 0 0
+Ni 1
+Ns 10
+illum 2
+map_Kd Bust_A.png
+
+newmtl bust_B_018
+Kd 1 1 1
+Ka 0 0 0
+Ks 0.4000000059604645 0.4000000059604645 0.4000000059604645
+Ke 0 0 0
+Ni 1
+Ns 10
+illum 2
+map_Kd Bust_B.png
+
+newmtl bust_C_018
+Kd 1 1 1
+Ka 0 0 0
+Ks 0.4000000059604645 0.4000000059604645 0.4000000059604645
+Ke 0 0 0
+Ni 1
+Ns 10
+illum 2
+map_Kd Bust_C.png
+
+newmtl eye_L_018
+Kd 1 1 1
+Ka 0 0 0
+Ks 0.4000000059604645 0.4000000059604645 0.4000000059604645
+Ke 0 0 0
+d 1
+Ni 1
+Ns 10
+illum 2
+map_Kd Eyes.png
+
+newmtl eye_R_018
+Kd 1 1 1
+Ka 0 0 0
+Ks 0.4000000059604645 0.4000000059604645 0.4000000059604645
+Ke 0 0 0
+d 1
+Ni 1
+Ns 10
+illum 2
+map_Kd Eyes.png
+
+newmtl eyeline_001
+Kd 1 1 1
+Ka 0 0 0
+Ks 0.4000000059604645 0.4000000059604645 0.4000000059604645
+Ke 0 0 0
+Ni 1
+Ns 10
+illum 2
+map_Kd Eyeliner.png
+
+newmtl hair_014
+Kd 1 1 1
+Ka 0 0 0
+Ks 0.4000000059604645 0.4000000059604645 0.4000000059604645
+Ke 0 0 0
+Ni 1
+Ns 10
+illum 2
+map_Kd Hair.png
+
+newmtl hair_015
+Kd 1 1 1
+Ka 0 0 0
+Ks 0.4000000059604645 0.4000000059604645 0.4000000059604645
+Ke 0 0 0
+Ni 1
+Ns 10
+illum 2
+map_Kd Hair.png
+
+newmtl hair_eyebrows_018
+Kd 1 1 1
+Ka 0 0 0
+Ks 0.4000000059604645 0.4000000059604645 0.4000000059604645
+Ke 0 0 0
+Ni 1
+Ns 10
+illum 2
+map_Kd Eyebrows.png
+
+newmtl mouth_018
+Kd 1 1 1
+Ka 0 0 0
+Ks 0.4000000059604645 0.4000000059604645 0.4000000059604645
+Ke 0 0 0
+Ni 1
+Ns 10
+illum 2
+map_Kd Skin_face.png
+
+newmtl obi_001
+Kd 1 1 1
+Ka 0 0 0
+Ks 0.4000000059604645 0.4000000059604645 0.4000000059604645
+Ke 0 0 0
+Ni 1
+Ns 10
+illum 2
+map_Kd Obi.png
+
+newmtl pants_018
+Kd 1 1 1
+Ka 0 0 0
+Ks 0.4000000059604645 0.4000000059604645 0.4000000059604645
+Ke 0 0 0
+Ni 1
+Ns 10
+illum 2
+map_Kd Pants.png
+
+newmtl skin_bust_018
+Kd 1 1 1
+Ka 0 0 0
+Ks 0.4000000059604645 0.4000000059604645 0.4000000059604645
+Ke 0 0 0
+Ni 1
+Ns 10
+illum 2
+map_Kd Skin_Bust.png
+
+newmtl skin_bust_fur_001
+Kd 1 1 1
+Ka 0 0 0
+Ks 0.4000000059604645 0.4000000059604645 0.4000000059604645
+Ke 0 0 0
+Ni 1
+Ns 10
+illum 2
+map_Kd Skin_Bust_Fur.png
+
+newmtl skin_face_018
+Kd 1 1 1
+Ka 0 0 0
+Ks 0.4000000059604645 0.4000000059604645 0.4000000059604645
+Ke 0 0 0
+Ni 1
+Ns 10
+illum 2
+map_Kd Skin_face.png
+
+newmtl skin_hand_001
+Kd 1 1 1
+Ka 0 0 0
+Ks 0.4000000059604645 0.4000000059604645 0.4000000059604645
+Ke 0 0 0
+Ni 1
+Ns 10
+illum 2
+map_Kd Skin_hand.png
+
+newmtl skin_hand_fur_001
+Kd 1 1 1
+Ka 0 0 0
+Ks 0.4000000059604645 0.4000000059604645 0.4000000059604645
+Ke 0 0 0
+Ni 1
+Ns 10
+illum 2
+map_Kd Skin_hand_Fur.png
+
+newmtl tail_001
+Kd 1 1 1
+Ka 0 0 0
+Ks 0.4000000059604645 0.4000000059604645 0.4000000059604645
+Ke 0 0 0
+Ni 1
+Ns 10
+illum 2
+map_Kd Tail.png
+
+newmtl tooth_018
+Kd 1 1 1
+Ka 0 0 0
+Ks 0.4000000059604645 0.4000000059604645 0.4000000059604645
+Ke 0 0 0
+Ni 1
+Ns 10
+illum 2
+map_Kd Skin_face.png
