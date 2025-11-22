@@ -1,0 +1,290 @@
+newmtl armor_A
+Kd 1 1 1
+Ka 0 0 0
+Ks 0.4000000059604645 0.4000000059604645 0.4000000059604645
+Ke 0 0 0
+Ni 1
+Ns 10
+illum 2
+map_Kd armor_a.png
+
+newmtl armor_B
+Kd 1 1 1
+Ka 0 0 0
+Ks 0.4000000059604645 0.4000000059604645 0.4000000059604645
+Ke 0 0 0
+Ni 1
+Ns 10
+illum 2
+map_Kd armor_b.png
+
+newmtl armor_C
+Kd 1 1 1
+Ka 0 0 0
+Ks 0.4000000059604645 0.4000000059604645 0.4000000059604645
+Ke 0 0 0
+Ni 1
+Ns 10
+illum 2
+map_Kd armor_c.png
+
+newmtl boots_a
+Kd 1 1 1
+Ka 0 0 0
+Ks 0.4000000059604645 0.4000000059604645 0.4000000059604645
+Ke 0 0 0
+Ni 1
+Ns 10
+illum 2
+map_Kd boots_a.png
+
+newmtl boots_b
+Kd 1 1 1
+Ka 0 0 0
+Ks 0.4000000059604645 0.4000000059604645 0.4000000059604645
+Ke 0 0 0
+Ni 1
+Ns 10
+illum 2
+map_Kd boots_b.png
+
+newmtl boots_c
+Kd 1 1 1
+Ka 0 0 0
+Ks 0.4000000059604645 0.4000000059604645 0.4000000059604645
+Ke 0 0 0
+Ni 1
+Ns 10
+illum 2
+map_Kd boots_c.png
+
+newmtl boots_d
+Kd 1 1 1
+Ka 0 0 0
+Ks 0.4000000059604645 0.4000000059604645 0.4000000059604645
+Ke 0 0 0
+Ni 1
+Ns 10
+illum 2
+map_Kd boots_d.png
+
+newmtl cloth
+Kd 1 1 1
+Ka 0 0 0
+Ks 0.4000000059604645 0.4000000059604645 0.4000000059604645
+Ke 0 0 0
+Ni 1
+Ns 10
+illum 2
+map_Kd cloth.png
+
+newmtl eye_L
+Kd 1 1 1
+Ka 0 0 0
+Ks 0.4000000059604645 0.4000000059604645 0.4000000059604645
+Ke 0 0 0
+Ni 1
+Ns 10
+illum 2
+map_Kd Eyes.png
+
+newmtl eye_R
+Kd 1 1 1
+Ka 0 0 0
+Ks 0.4000000059604645 0.4000000059604645 0.4000000059604645
+Ke 0 0 0
+Ni 1
+Ns 10
+illum 2
+map_Kd Eyes.png
+
+newmtl eyebrows
+Kd 1 1 1
+Ka 0 0 0
+Ks 0.4000000059604645 0.4000000059604645 0.4000000059604645
+Ke 0 0 0
+Ni 1
+Ns 10
+illum 2
+map_Kd skin_face.png
+
+newmtl glove
+Kd 1 1 1
+Ka 0 0 0
+Ks 0.4000000059604645 0.4000000059604645 0.4000000059604645
+Ke 0 0 0
+Ni 1
+Ns 10
+illum 2
+map_Kd glove.png
+
+newmtl hair
+Kd 1 1 1
+Ka 0 0 0
+Ks 0.4000000059604645 0.4000000059604645 0.4000000059604645
+Ke 0 0 0
+Ni 1
+Ns 10
+illum 2
+map_Kd Hair.png
+
+newmtl injury_face
+Kd 1 1 1
+Ka 0 0 0
+Ks 0.4000000059604645 0.4000000059604645 0.4000000059604645
+Ke 0 0 0
+Ni 1
+Ns 10
+illum 2
+map_Kd injury_face.png
+
+newmtl mouth
+Kd 1 1 1
+Ka 0 0 0
+Ks 0.4000000059604645 0.4000000059604645 0.4000000059604645
+Ke 0 0 0
+Ni 1
+Ns 10
+illum 2
+map_Kd skin_face.png
+
+newmtl sct_A
+Kd 1 1 1
+Ka 0 0 0
+Ks 0.4000000059604645 0.4000000059604645 0.4000000059604645
+Ke 0 0 0
+Ni 1
+Ns 10
+illum 2
+map_Kd Scouter.png
+
+newmtl sct_B
+Kd 1 1 1
+Ka 0 0 0
+Ks 0.4000000059604645 0.4000000059604645 0.4000000059604645
+Ke 0 0 0
+Ni 1
+Ns 10
+illum 2
+map_Kd Scouter.png
+
+newmtl sct_C
+Kd 1 1 1
+Ka 0 0 0
+Ks 0.4000000059604645 0.4000000059604645 0.4000000059604645
+Ke 0 0 0
+Ni 1
+Ns 10
+illum 2
+map_Kd Scouter.png
+
+newmtl sct_D
+Kd 1 1 1
+Ka 0 0 0
+Ks 0.4000000059604645 0.4000000059604645 0.4000000059604645
+Ke 0 0 0
+d 0.6078432202339172
+Ni 1
+Ns 10
+illum 2
+map_Kd Scouter.png
+
+newmtl skin_Hand
+Kd 1 1 1
+Ka 0 0 0
+Ks 0.4000000059604645 0.4000000059604645 0.4000000059604645
+Ke 0 0 0
+Ni 1
+Ns 10
+illum 2
+map_Kd skin_hand.png
+
+newmtl skin_bust
+Kd 1 1 1
+Ka 0 0 0
+Ks 0.4000000059604645 0.4000000059604645 0.4000000059604645
+Ke 0 0 0
+Ni 1
+Ns 10
+illum 2
+map_Kd skin_bust.png
+
+newmtl skin_face
+Kd 1 1 1
+Ka 0 0 0
+Ks 0.4000000059604645 0.4000000059604645 0.4000000059604645
+Ke 0 0 0
+Ni 1
+Ns 10
+illum 2
+map_Kd skin_face.png
+
+newmtl skirt_A
+Kd 1 1 1
+Ka 0 0 0
+Ks 0.4000000059604645 0.4000000059604645 0.4000000059604645
+Ke 0 0 0
+Ni 1
+Ns 10
+illum 2
+map_Kd Skirt_a.png
+
+newmtl skirt_B
+Kd 1 1 1
+Ka 0 0 0
+Ks 0.4000000059604645 0.4000000059604645 0.4000000059604645
+Ke 0 0 0
+Ni 1
+Ns 10
+illum 2
+map_Kd Skirt_b.png
+
+newmtl tail
+Kd 1 1 1
+Ka 0 0 0
+Ks 0.4000000059604645 0.4000000059604645 0.4000000059604645
+Ke 0 0 0
+Ni 1
+Ns 10
+illum 2
+map_Kd tail.png
+
+newmtl tights
+Kd 1 1 1
+Ka 0 0 0
+Ks 0.4000000059604645 0.4000000059604645 0.4000000059604645
+Ke 0 0 0
+Ni 1
+Ns 10
+illum 2
+map_Kd tights.png
+
+newmtl tongue
+Kd 1 1 1
+Ka 0 0 0
+Ks 0.4000000059604645 0.4000000059604645 0.4000000059604645
+Ke 0 0 0
+Ni 1
+Ns 10
+illum 2
+map_Kd skin_face.png
+
+newmtl toothdown
+Kd 1 1 1
+Ka 0 0 0
+Ks 0.4000000059604645 0.4000000059604645 0.4000000059604645
+Ke 0 0 0
+Ni 1
+Ns 10
+illum 2
+map_Kd skin_face.png
+
+newmtl toothup
+Kd 1 1 1
+Ka 0 0 0
+Ks 0.4000000059604645 0.4000000059604645 0.4000000059604645
+Ke 0 0 0
+Ni 1
+Ns 10
+illum 2
+map_Kd skin_face.png

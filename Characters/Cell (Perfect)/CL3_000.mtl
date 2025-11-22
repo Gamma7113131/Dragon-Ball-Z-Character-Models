@@ -1,0 +1,282 @@
+newmtl nail
+	Ka 0 0 0
+	Kd 1 1 1
+	Ke 0 0 0
+	illum 2
+	Ks 0 0 0
+	Ns 0
+	d 1
+	Tr 0
+	map_Kd Nails.png
+
+newmtl skin_hand
+	Ka 0 0 0
+	Kd 1 1 1
+	Ke 0 0 0
+	illum 2
+	Ks 0 0 0
+	Ns 0
+	d 1
+	Tr 0
+	map_Kd Skin_hand.png
+
+newmtl boots
+	Ka 0 0 0
+	Kd 1 1 1
+	Ke 0 0 0
+	illum 2
+	Ks 0 0 0
+	Ns 0
+	d 1
+	Tr 0
+	map_Kd Boots.png
+
+newmtl skin_bustA
+	Ka 0 0 0
+	Kd 1 1 1
+	Ke 0 0 0
+	illum 2
+	Ks 0 0 0
+	Ns 0
+	d 1
+	Tr 0
+	map_Kd Skin_bustA.png
+
+newmtl skin_bustB
+	Ka 0 0 0
+	Kd 1 1 1
+	Ke 0 0 0
+	illum 2
+	Ks 0 0 0
+	Ns 0
+	d 1
+	Tr 0
+	map_Kd Skin_bustb.png
+
+newmtl skin_bustC
+	Ka 0 0 0
+	Kd 1 1 1
+	Ke 0 0 0
+	illum 2
+	Ks 0 0 0
+	Ns 0
+	d 1
+	Tr 0
+	map_Kd Skin_bustC.png
+
+newmtl skin_bustD
+	Ka 0 0 0
+	Kd 1 1 1
+	Ke 0 0 0
+	illum 2
+	Ks 0 0 0
+	Ns 0
+	d 1
+	Tr 0
+	map_Kd Skin_bustD.png
+
+newmtl skin_tail
+	Ka 0 0 0
+	Kd 1 1 1
+	Ke 0 0 0
+	illum 2
+	Ks 0 0 0
+	Ns 0
+	d 1
+	Tr 0
+	map_Kd Skin_tail.png
+
+newmtl tooth
+	Ka 0 0 0
+	Kd 1 1 1
+	Ke 0 0 0
+	illum 2
+	Ks 0 0 0
+	Ns 0
+	d 1
+	Tr 0
+
+newmtl tongue
+	Ka 0 0 0
+	Kd 1 1 1
+	Ke 0 0 0
+	illum 2
+	Ks 0 0 0
+	Ns 0
+	d 1
+	Tr 0
+
+newmtl head_A
+	Ka 0 0 0
+	Kd 1 1 1
+	Ke 0 0 0
+	illum 2
+	Ks 0 0 0
+	Ns 0
+	d 1
+	Tr 0
+	map_Kd Head_A.png
+
+newmtl head_C
+	Ka 0 0 0
+	Kd 1 1 1
+	Ke 0 0 0
+	illum 2
+	Ks 0 0 0
+	Ns 0
+	d 1
+	Tr 0
+	map_Kd Head_C.png
+
+newmtl mouth
+	Ka 0 0 0
+	Kd 1 1 1
+	Ke 0 0 0
+	illum 2
+	Ks 0 0 0
+	Ns 0
+	d 1
+	Tr 0
+
+newmtl skin_faceA
+	Ka 0 0 0
+	Kd 1 1 1
+	Ke 0 0 0
+	illum 2
+	Ks 0 0 0
+	Ns 0
+	d 1
+	Tr 0
+	map_Kd Skin_faceA.png
+
+newmtl skin_faceB
+	Ka 0 0 0
+	Kd 1 1 1
+	Ke 0 0 0
+	illum 2
+	Ks 0 0 0
+	Ns 0
+	d 1
+	Tr 0
+	map_Kd Skin_faceB.png
+
+newmtl skin_faceC
+	Ka 0 0 0
+	Kd 1 1 1
+	Ke 0 0 0
+	illum 2
+	Ks 0 0 0
+	Ns 0
+	d 1
+	Tr 0
+	map_Kd Skin_faceC.png
+
+newmtl eye_L
+	Ka 0 0 0
+	Kd 1 1 1
+	Ke 0 0 0
+	illum 2
+	Ks 0 0 0
+	Ns 0
+	d 1
+	Tr 0
+	map_Kd Eyes.png
+
+newmtl eye_R
+	Ka 0 0 0
+	Kd 1 1 1
+	Ke 0 0 0
+	illum 2
+	Ks 0 0 0
+	Ns 0
+	d 1
+	Tr 0
+	map_Kd Eyes.png
+
+newmtl wingA
+	Ka 0 0 0
+	Kd 1 1 1
+	Ke 0 0 0
+	illum 2
+	Ks 0 0 0
+	Ns 0
+	d 1
+	Tr 0
+	map_Kd Wing_A.png
+
+newmtl wingB
+	Ka 0 0 0
+	Kd 1 1 1
+	Ke 0 0 0
+	illum 2
+	Ks 0 0 0
+	Ns 0
+	d 1
+	Tr 0
+	map_Kd Wing_B.png
+
+newmtl wingC
+	Ka 0 0 0
+	Kd 1 1 1
+	Ke 0 0 0
+	illum 2
+	Ks 0 0 0
+	Ns 0
+	d 1
+	Tr 0
+	map_Kd Wing_C.png
+
+newmtl wingD
+	Ka 0 0 0
+	Kd 1 1 1
+	Ke 0 0 0
+	illum 2
+	Ks 0 0 0
+	Ns 0
+	d 1
+	Tr 0
+	map_Kd Wing_D.png
+
+newmtl head_B
+	Ka 0 0 0
+	Kd 1 1 1
+	Ke 0 0 0
+	illum 2
+	Ks 0 0 0
+	Ns 0
+	d 1
+	Tr 0
+	map_Kd Head_B.png
+
+newmtl skin_legA
+	Ka 0 0 0
+	Kd 1 1 1
+	Ke 0 0 0
+	illum 2
+	Ks 0 0 0
+	Ns 0
+	d 1
+	Tr 0
+	map_Kd Skin_LegA.png
+
+newmtl skin_legB
+	Ka 0 0 0
+	Kd 1 1 1
+	Ke 0 0 0
+	illum 2
+	Ks 0 0 0
+	Ns 0
+	d 1
+	Tr 0
+	map_Kd Skin_LegB.png
+
+newmtl skin_legC
+	Ka 0 0 0
+	Kd 1 1 1
+	Ke 0 0 0
+	illum 2
+	Ks 0 0 0
+	Ns 0
+	d 1
+	Tr 0
+	map_Kd Skin_LegC.png
