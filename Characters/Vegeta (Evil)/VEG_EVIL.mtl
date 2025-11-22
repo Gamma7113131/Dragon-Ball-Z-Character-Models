@@ -1,5 +1,35 @@
-# Blender MTL File: 'None'
-# Material Count: 14
+newmtl armor_A
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd Armor_A.png
+
+newmtl armor_B
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd Armor_B.png
+
+newmtl armor_C
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd Armor_C.png
 
 newmtl bootsA
 Ns 0.000000
@@ -10,18 +40,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 1
-map_Kd C:\\Users\\Rohit\\Downloads\\AssetsDBZ2\\Process (Just need to colour them)\\Vegeta (Good)\\Textures\\VGT_000_Boots\\boots.png
-
-newmtl bust_spatC
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Kd 0.800000 0.800000 0.800000
-Ks 0.000000 0.000000 0.000000
-Ke 0.000000 0.000000 0.000000
-Ni 1.000000
-d 1.000000
-illum 1
-map_Kd C:\\Users\\Rohit\\Downloads\\AssetsDBZ2\\Process (Just need to colour them)\\Vegeta (Good)\\Textures\\VGT_009_Bust\\bust_spatC.png
+map_Kd Boots.png
 
 newmtl eye_L
 Ns 0.000000
@@ -32,7 +51,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 1
-map_Kd C:\\Users\\Rohit\\Downloads\\AssetsDBZ2\\Process (Just need to colour them)\\Vegeta (Good)\\Textures\\VGT_000_Face_eye\\Eyes.png
+map_Kd Eyes.png
 
 newmtl eye_R
 Ns 0.000000
@@ -43,12 +62,12 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 1
-map_Kd C:\\Users\\Rohit\\Downloads\\AssetsDBZ2\\Process (Just need to colour them)\\Vegeta (Good)\\Textures\\VGT_000_Face_eye\\Eyes.png
+map_Kd Eyes.png
 
 newmtl eyebrows
 Ns 0.000000
 Ka 1.000000 1.000000 1.000000
-Kd 0.004483 0.004483 0.004483
+Kd 0.000825 0.000825 0.000825
 Ks 0.000000 0.000000 0.000000
 Ke 0.000000 0.000000 0.000000
 Ni 1.000000
@@ -64,7 +83,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 1
-map_Kd C:\\Users\\Rohit\\Downloads\\AssetsDBZ2\\Process (Just need to colour them)\\Vegeta (Good)\\Textures\\VGT_000_Face_base\\face.png
+map_Kd Skin_face.png
 
 newmtl glove
 Ns 0.000000
@@ -75,18 +94,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 1
-map_Kd C:\\Users\\Rohit\\Downloads\\AssetsDBZ2\\Process (Just need to colour them)\\Vegeta (Good)\\Textures\\VGT_003_Rist\\gloves.png
-
-newmtl glove_Splinter
-Ns 0.000000
-Ka 1.000000 1.000000 1.000000
-Kd 0.800000 0.800000 0.800000
-Ks 0.000000 0.000000 0.000000
-Ke 0.000000 0.000000 0.000000
-Ni 1.000000
-d 1.000000
-illum 1
-map_Kd C:\\Users\\Rohit\\Downloads\\AssetsDBZ2\\Process (Just need to colour them)\\Vegeta (Good)\\Textures\\VGT_003_Rist\\gloves.png
+map_Kd Gloves.png
 
 newmtl hair
 Ns 0.000000
@@ -97,19 +105,19 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 1
-map_Kd C:\\Users\\Rohit\\Downloads\\AssetsDBZ2\\Process (Just need to colour them)\\Vegeta (Evil)\\Textures\\VGT_000_hair_scd\\Hair.png
+map_Kd Hair.png
 
 newmtl mouth
 Ns 0.000000
 Ka 1.000000 1.000000 1.000000
-Kd 0.800000 0.002852 0.017713
+Kd 0.800000 0.000000 0.000505
 Ks 0.000000 0.000000 0.000000
 Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 1
 
-newmtl skin_bustB
+newmtl skin_bustA
 Ns 0.000000
 Ka 1.000000 1.000000 1.000000
 Kd 0.800000 0.800000 0.800000
@@ -118,9 +126,9 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 1
-map_Kd C:\\Users\\Rohit\\Downloads\\AssetsDBZ2\\Process (Just need to colour them)\\Vegeta (Good)\\Textures\\VGT_009_Bust\\skin_bustB.png
+map_Kd Skin_bust.png
 
-newmtl spat_legB
+newmtl spat_bustA
 Ns 0.000000
 Ka 1.000000 1.000000 1.000000
 Kd 0.800000 0.800000 0.800000
@@ -129,12 +137,34 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 1
-map_Kd C:\\Users\\Rohit\\Downloads\\AssetsDBZ2\\Process (Just need to colour them)\\Vegeta (Good)\\Textures\\VGT_007_Pants\\Pants.png
+map_Kd Spat_bust.png
+
+newmtl spat_legA
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd Spat_legA.png
+
+newmtl tail
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd Tail.png
 
 newmtl tongue
 Ns 0.000000
 Ka 1.000000 1.000000 1.000000
-Kd 0.800000 0.075719 0.123567
+Kd 0.800000 0.224267 0.172854
 Ks 0.000000 0.000000 0.000000
 Ke 0.000000 0.000000 0.000000
 Ni 1.000000

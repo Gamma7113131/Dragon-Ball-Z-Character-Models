@@ -1,6 +1,3 @@
-# Blender MTL File: 'None'
-# Material Count: 21
-
 newmtl armor_A
 Ns 0.000000
 Ka 1.000000 1.000000 1.000000
@@ -10,7 +7,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 1
-map_Kd C:\\Users\\Rohit\\Downloads\\AssetsDBZ2\\Process (Just need to colour them)\\Jeice\\Textures\\JES_000_Bust\\Mark_A + Armor_A + Armor_C.png
+map_Kd Armor_A.png
 
 newmtl armor_B
 Ns 0.000000
@@ -21,7 +18,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 1
-map_Kd C:\\Users\\Rohit\\Downloads\\AssetsDBZ2\\Process (Just need to colour them)\\Jeice\\Textures\\JES_000_Bust\\Armor_B.png
+map_Kd Armor_B.png
 
 newmtl armor_C
 Ns 0.000000
@@ -32,7 +29,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 1
-map_Kd C:\\Users\\Rohit\\Downloads\\AssetsDBZ2\\Process (Just need to colour them)\\Jeice\\Textures\\JES_000_Bust\\Mark_A + Armor_A + Armor_C.png
+map_Kd Armor_C.png
 
 newmtl boots
 Ns 0.000000
@@ -43,7 +40,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 1
-map_Kd C:\\Users\\Rohit\\Downloads\\AssetsDBZ2\\Process (Just need to colour them)\\Raspberry\\Textures\\RSB_000_Boots\\Boots.png
+map_Kd Boots.png
 
 newmtl eye_L
 Ns 0.000000
@@ -54,7 +51,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 1
-map_Kd C:\\Users\\Rohit\\Downloads\\AssetsDBZ2\\Process (Just need to colour them)\\Recoome\\Texture\\RCM_000_Face_eye\\Eyes.png
+map_Kd Eyes.png
 
 newmtl eye_R
 Ns 0.000000
@@ -65,7 +62,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 1
-map_Kd C:\\Users\\Rohit\\Downloads\\AssetsDBZ2\\Process (Just need to colour them)\\Recoome\\Texture\\RCM_000_Face_eye\\Eyes.png
+map_Kd Eyes.png
 
 newmtl glove
 Ns 0.000000
@@ -76,7 +73,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 1
-map_Kd C:\\Users\\Rohit\\Downloads\\AssetsDBZ2\\Process (Just need to colour them)\\Recoome\\Texture\\RCM_000_Rist\\gloves.png
+map_Kd gloves.png
 
 newmtl hair
 Ns 0.000000
@@ -87,7 +84,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 1
-map_Kd C:\\Users\\Rohit\\Downloads\\AssetsDBZ2\\Process (Just need to colour them)\\Recoome\\Texture\\RCM_000_Hair\\Hair.png
+map_Kd Hair.png
 
 newmtl mark_A
 Ns 0.000000
@@ -98,7 +95,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 1
-map_Kd C:\\Users\\Rohit\\Downloads\\AssetsDBZ2\\Process (Just need to colour them)\\Jeice\\Textures\\JES_000_Bust\\Mark_A + Armor_A + Armor_C.png
+map_Kd Mark_A.png
 
 newmtl mark_B
 Ns 0.000000
@@ -109,7 +106,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 1
-map_Kd C:\\Users\\Rohit\\Downloads\\AssetsDBZ2\\Process (Just need to colour them)\\Jeice\\Textures\\JES_000_Bust\\Mark_B.png
+map_Kd Mark_B.png
 
 newmtl mark_C
 Ns 0.000000
@@ -120,7 +117,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 1
-map_Kd C:\\Users\\Rohit\\Downloads\\AssetsDBZ2\\Process (Just need to colour them)\\Jeice\\Textures\\JES_000_Bust\\Mark_C.png
+map_Kd Mark_C.png
 
 newmtl mouth
 Ns 0.000000
@@ -141,7 +138,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 1
-map_Kd C:\\Users\\Rohit\\Downloads\\AssetsDBZ2\\Process (Just need to colour them)\\Recoome\\Texture\\RCM_000_Bust\\Skin_bust.png
+map_Kd Skin_bust.png
 
 newmtl skin_face
 Ns 0.000000
@@ -152,7 +149,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 1
-map_Kd C:\\Users\\Rohit\\Downloads\\AssetsDBZ2\\Process (Just need to colour them)\\Recoome\\Texture\\RCM_000_Face_base\\Skin_face.png
+map_Kd Skin_face.png
 
 newmtl skin_leg
 Ns 0.000000
@@ -163,7 +160,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 1
-map_Kd C:\\Users\\Rohit\\Downloads\\AssetsDBZ2\\Process (Just need to colour them)\\Recoome\\Texture\\RCM_000_Pants\\Skin_legs.png
+map_Kd Skin_legs.png
 
 newmtl skirt_A
 Ns 0.000000
@@ -174,7 +171,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 1
-map_Kd C:\\Users\\Rohit\\Downloads\\AssetsDBZ2\\Process (Just need to colour them)\\Recoome\\Texture\\RCM_000_skirt_scd\\skirt_A.png
+map_Kd skirt_A.png
 
 newmtl skirt_B
 Ns 0.000000
@@ -185,7 +182,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 1
-map_Kd C:\\Users\\Rohit\\Downloads\\AssetsDBZ2\\Process (Just need to colour them)\\Recoome\\Texture\\RCM_000_skirt_scd\\Skirt_B.png
+map_Kd Skirt_B.png
 
 newmtl spats_bust
 Ns 0.000000
@@ -207,7 +204,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 1
-map_Kd C:\\Users\\Rohit\\Downloads\\AssetsDBZ2\\Process (Just need to colour them)\\Recoome\\Texture\\RCM_000_Pants\\Spat_legs.png
+map_Kd Spat_legs.png
 
 newmtl tongue
 Ns 0.000000
